@@ -15,7 +15,7 @@ This project involves analyzing sales data from Amazon to gain insights into sal
 ## Analysis
 
 ### Data Cleaning
-- Processed and cleaned the raw data to handle missing values, remove duplicates, and correct data inconsistencies.
+- Processed and cleaned the raw data to handle remove duplicates, and correct data inconsistencies.
 
 ### Report Generation
 - Generated a comprehensive report summarizing key findings from the data analysis.
