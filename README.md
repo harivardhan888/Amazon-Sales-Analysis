@@ -24,6 +24,6 @@ This project involves analyzing sales data from Amazon to gain insights into sal
 - Created an interactive Power BI dashboard to visualize sales trends, order priorities, and sales channels.
 
 ### Acknowledgments
-Power BI for creating dashboard.
-Pandas and NumPy for data manipulation in Python.
-Matplotlib and Seaborn for data visualization in Python.
+- Power BI for creating dashboard.
+- Pandas and NumPy for data manipulation in Python.
+- Matplotlib and Seaborn for data visualization in Python.
